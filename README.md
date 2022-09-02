@@ -5,7 +5,7 @@
 
 ### 2. Clone Project
 ```
-git clone https://github.com/ccstmiktsm/practice-git-github.git
+git clone https://github.com/<username>/practice-git-github.git
 ```
 
 ### 3. Create New Branch
